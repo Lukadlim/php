@@ -1,0 +1,3 @@
+<?php
+    $nome = 'João Ribeiro';
+?>
