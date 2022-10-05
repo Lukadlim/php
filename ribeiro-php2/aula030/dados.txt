@@ -1,0 +1,10 @@
+Esta linha contém o valor: 26
+Esta linha contém o valor: 99
+Esta linha contém o valor: 3
+Esta linha contém o valor: 89
+Esta linha contém o valor: 92
+Esta linha contém o valor: 44
+Esta linha contém o valor: 55
+Esta linha contém o valor: 77
+Esta linha contém o valor: 55
+Esta linha contém o valor: 64
