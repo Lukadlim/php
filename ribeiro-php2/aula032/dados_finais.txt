@@ -1,0 +1,10 @@
+Esta linha contém o valor de: 37
+Esta linha contém o valor de: 72
+Esta linha contém o valor de: 63
+Esta linha contém o valor de: 80
+Esta linha contém o valor de: 99
+Esta linha contém o valor de: 78
+Esta linha contém o valor de: 18
+Esta linha contém o valor de: 1
+Esta linha contém o valor de: 22
+Esta linha contém o valor de: 30
