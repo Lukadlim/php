@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RadioButtons</title>
+</head>
+<body>
+    <p>Qual seu filme favorito?</p>
+    <form action="submit/tratar_radio.php" method="POST">
+        <label for="istarwars"> 
+            <input type="radio" name="radio_filme" id="istarwars" value="Star Wars" checked>
+            Star Wars
+        </label>
+
+        <br>
+
+        <label for="imatrix">
+            <input type="radio" name="radio_filme" id="imatrix" value="Matrix">
+            Matrix
+        </label>
+
+        <br>
+
+        <label for="ispiderman">
+            <input type="radio" name="radio_filme" id="ispiderman" value="Spiderman">
+            Spiderman
+        </label>
+
+        <hr>
+
+        <p>Seu genêro?</p>
+
+        <label for="imulher">
+            <input type="radio" name="genero" id="imulher" value="Mulher" checked>
+            Mulher
+        </label>
+
+        <label for="ihomem">
+            <input type="radio" name="genero" id="ihomem" value="Homem">
+            Homem
+        </label>
+
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+</body>
+</html>
