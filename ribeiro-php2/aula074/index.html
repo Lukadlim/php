@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="tratar_data.php" method="POST">
+        <label for="nasc">Data de nascimento:</label><br>
+        <input type="date" name="nascimento" id="nasc" value="1990-01-01">
+
+        <hr>
+
+        <label for="time">Indique uma hora:</label><br>
+        <input type="time" name="hora" id="time">
+
+        <hr>
+
+        <label for="month">Indique um mês:</label><br>
+        <input type="month" name="mes" id="month">
+
+        <hr>
+
+        <label for="week">Indique uma semana:</label><br>
+        <input type="week" name="semana" id="week">
+
+        <hr>
+
+        <label for="datetime">Indique uma data e hora:</label><br>
+        <input type="datetime-local" name="data_hora" id="datetime"><br>
+
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+</body>
+</html>
