@@ -13,6 +13,7 @@
           <div class="nav-wrapper container ">
               <a href="#" class="center brand-logo " href="index.html"><img src="{{asset('img/logo.png')}}"></a>          
             <ul class="right ">                                 
+                <li class="hide-on-med-and-down"><a href="#" onclick="fullScreen()"><i class="material-icons">settings_overscan</i> </a> </li>
                 <li><a href="#" class="dropdown-trigger" data-target='dropdown2'>Hello {{ auth()->user()->firstname }}<i class="material-icons right">expand_more</i> </a></li>     
             </ul>
             <a href="#" data-target="slide-out" class="sidenav-trigger left  show-on-large"><i class="material-icons">menu</i></a>
